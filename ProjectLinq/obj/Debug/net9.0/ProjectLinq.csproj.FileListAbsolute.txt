@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/bin/Debug/net9.0/ProjectLinq
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/bin/Debug/net9.0/ProjectLinq.deps.json
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/bin/Debug/net9.0/ProjectLinq.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/bin/Debug/net9.0/ProjectLinq.dll
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/bin/Debug/net9.0/ProjectLinq.pdb
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.dll
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/refint/ProjectLinq.dll
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.pdb
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ProjectLinq.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/ProjectLinq/ProjectLinq/obj/Debug/net9.0/ref/ProjectLinq.dll
